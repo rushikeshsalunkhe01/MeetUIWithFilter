@@ -20,7 +20,7 @@ A simple web-based participant interface that resembles a Google Meet-like UI. I
 
 1. Clone the repository:
    ```bash
-   
+   https://github.com/rushikeshsalunkhe01/MeetUIWithFilter
    ```
 2. Navigate to the project folder:
    ```bash
