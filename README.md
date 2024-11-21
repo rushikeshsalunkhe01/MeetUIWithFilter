@@ -48,6 +48,8 @@ MeetUIWithFilter/
 ```
 
 ## Screenshots
+![Screenshot Description](/Screenshot%20(436).png)
+
 
 ### Participants List
 *Add a screenshot here showing the list of participants.*
